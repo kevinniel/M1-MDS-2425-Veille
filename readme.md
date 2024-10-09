@@ -78,3 +78,42 @@ Quelques exemples de sites
 - discord (& bots)
 - slack
 
+
+# TP
+
+A faire en individuel sur le sujet qui vous à été attribué (cf tableau ci-dessous)
+
+Faire un repo GIT avec un readme principal qui contiendra la justification du choix de votre techno.
+Vous devrez ensuite justifier de tous les outils que vous comptez utiliser.
+Pour chaque outil, mettez un tableau avec : 
+- Le lien vers la source
+- Justification de pourquoi vous l'avez choisie
+
+Vous devez mettre en place un MAXIMUM de sources. Les notes dépendront de la justification de chacune et du nombre de sources que vous avez listé.
+
+## Sujets
+
+| Nom        | Sujet         |
+|------------|---------------|
+| Adrien     | Laravel        |
+| Timéo      | Symfony        |
+| Martin     | Vue            |
+| Yael       | lua            |
+| Alexandre  | Django         |
+| Alaa       | Unity          |
+| Romuald    | Python         |
+| Haitham    | PHP            |
+| Thomas     | Unreal Engine  |
+| Robi       | React Native   |
+| Clément    | Express        |
+| Lino       | Flutter        |
+| Enzo       | Spring Boot    |
+| Mael       | Node           |
+| Amaury     | Nextjs         |
+| Mathis     | React          |
+| Evhan      | Javascript     |
+| Khadidja   | RoR            |
+| Nathan     | Perl           |
+| Yannick    | WPF            |
+| Victor     | Cobol          |
+
