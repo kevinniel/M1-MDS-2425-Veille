@@ -98,22 +98,22 @@ Vous devez mettre en place un MAXIMUM de sources. Les notes dépendront de la ju
 | Adrien     | Laravel        |  |
 | Timéo      | Symfony        |  |
 | Martin     | Vue            | https://github.com/mrtbgau/Veille_Vue.git |
-| Yael       | lua            |  |
-| Alexandre  | Django         |  |
+| Yael       | lua            | https://github.com/YaelBusser/Veille-Lua.git |
+| Alexandre  | Django         | https://github.com/AshiikoAR/veille |
 | Alaa       | Unity          |  |
-| Romuald    | Python         |  |
-| Haitham    | PHP            |  |
-| Thomas     | Unreal Engine  |  |
-| Robi       | React Native   |  |
-| Clément    | Express        |  |
+| Romuald    | Python         | https://github.com/justRB/Veille.git |
+| Haitham    | PHP            | https://github.com/Haitam6/Veille_Haitam |
+| Thomas     | Unreal Engine  | https://github.com/Azazel7Kuro/VeilleTechUE |
+| Robi       | React Native   | https://github.com/RobinsonBerthet/VeilleTech_React_Native |
+| Clément    | Express        | https://github.com/ClementDaguenet/M1-MDS-2425-Veille-Express.git |
 | Lino       | Flutter        |  |
-| Enzo       | Spring Boot    |  |
-| Mael       | Node           |  |
-| Amaury     | Nextjs         |  |
-| Mathis     | React          |  |
+| Enzo       | Spring Boot    | https://github.com/ZoEnXI/veilleSpringBoot |
+| Mael       | Node           | https://github.com/maelgllt/M1-MDS-2425-Veille |
+| Amaury     | Nextjs         | https://github.com/AmauryJo/Veille-Next.js |
+| Mathis     | React          | https://github.com/maths1009/veille-react |
 | Evhan      | Javascript     |  |
-| Khadidja   | RoR            |  |
+| Khadidja   | RoR            | https://github.com/Subinoumds/Veille-RoR |
 | Nathan     | Perl           |  |
-| Yannick    | WPF            |  |
-| Victor     | Cobol          |  |
+| Yannick    | WPF            | https://github.com/Nickyo0822/veille-wpf |
+| Victor     | Cobol          | https://github.com/Waazor/Veille-COBOL |
 
